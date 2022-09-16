@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "projectName":"team website",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/webSite",
+    "projectLive":"https://mohamed-waled.github.io/webSite/"
+  },
+  {
+    "id": 2,
+    "projectName":"original trombones landing page",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Product-Landing-Page",
+    "projectLive":"https://mohamed-waled.github.io/Product-Landing-Page/"
+  },
+  {
+    "id": 3,
+    "projectName":"fylo landing page",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Fylo-Landing-Page-With-Two-Column-Layout",
+    "projectLive":"https://mohamed-waled.github.io/Fylo-Landing-Page-With-Two-Column-Layout/"
+  },
+  {
+    "id": 4,
+    "projectName":"huddle landing page",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Huddle-Landing-Page-With-Alternating-Feature-Blocks",
+    "projectLive":"https://mohamed-waled.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks/"
+  },
+  {
+    "id": 5,
+    "projectName":"clipboard landing page",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Clipboard-Landing-Page",
+    "projectLive":"https://mohamed-waled.github.io/Clipboard-Landing-Page/"
+  },
+  {
+    "id": 6,
+    "projectName":"tribute page",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Tribute-Page",
+    "projectLive":"https://mohamed-waled.github.io/Tribute-Page/"
+  },
+  {
+    "id": 7,
+    "projectName":"survey form",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Survey-Form",
+    "projectLive":"https://mohamed-waled.github.io/Survey-Form/"
+  },
+  {
+    "id": 8,
+    "projectName":"personal portfolio webpage",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Personal-Portfolio-Webpage",
+    "projectLive":"https://mohamed-waled.github.io/Personal-Portfolio-Webpage/"
+  },
+  {
+    "id": 9,
+    "projectName":"technical documentation page",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Technical-Documentation-Page",
+    "projectLive":"https://mohamed-waled.github.io/Technical-Documentation-Page/"
+  },
+  {
+    "id": 10,
+    "projectName":"random quote machine",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Random-Quote-Machine",
+    "projectLive":"https://celebrated-lily-314c2f.netlify.app/"
+  },
+  {
+    "id": 11,
+    "projectName":"to-do app",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/To-Do-App",
+    "projectLive":"https://mohamed-waled.github.io/To-Do-App/"
+  },
+  {
+    "id": 12,
+    "projectName":"distance between two points calculator",
+    "projectDescription": "",
+    "projectImage":"",
+    "projectRepo":"https://github.com/Mohamed-Waled/Distance-Calculator-Between-Two-Points-V-2.0",
+    "projectLive":"https://mohamed-waled.github.io/Distance-Calculator-Between-Two-Points-V-2.0/"
+  }
+]

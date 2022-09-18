@@ -2,97 +2,109 @@
   {
     "id": 1,
     "projectName": "team website",
-    "projectDescription": "A perfect website template for any business that contained a lot and a lot of things such as a landing section to Introduce yourself, an articles section where you can put in it your featured articles, a gallery section to put the most important images of your business, features section to put in it the services you provide to your customers, testimonials section to put in it customers opinions, team member section to give them credit in it about what they have done and way more than that. I've used pure HTML, CSS, and JavaScript.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/webSite/mockup.png?token=GHSAT0AAAAAABYYWHNRNQPVRI3O5AEOW4CKYZEPBUA",
+    "projectDescription": "A perfect website template for any business that contained a lot and a lot of things such as a landing section to Introduce yourself, an articles section where you can put in it your featured articles, a gallery section to put the most important images of your business, features section to put in it the services you provide to your customers, testimonials section to put in it customers opinions, team member section to give them credit in it about what they have done and way more than that.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/webSite/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/webSite",
-    "projectLive": "https://mohamed-waled.github.io/webSite/"
+    "projectLive": "https://mohamed-waled.github.io/webSite/",
+    "technologies": 3
   },
   {
     "id": 2,
     "projectName": "original trombones landing page",
-    "projectDescription": "A product landing page you can use if your business is all about one product. It's a good landing page that tells the customer everything about you and your product. I've used HTML and CSS.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Product%20Landing%20Page/mockup.png?token=GHSAT0AAAAAABYYWHNQFZPSHB72FM5UG7PAYZEPDOQ",
+    "projectDescription": "A product landing page you can use if your business is all about one product. It's a good landing page that tells the customer everything about you and your product.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Product%20Landing%20Page/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Product-Landing-Page",
-    "projectLive": "https://mohamed-waled.github.io/Product-Landing-Page/"
+    "projectLive": "https://mohamed-waled.github.io/Product-Landing-Page/",
+    "technologies": 1
   },
   {
     "id": 3,
     "projectName": "fylo landing page",
-    "projectDescription": " A Fylo landing page with two column layout you can use as a home page for your business, application, or even your portfolio as it's nice, tidy, and crystal clear and you can add to it whatever you want. I've used HTML and CSS.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Fylo%20Landing%20Page/mockup.png?token=GHSAT0AAAAAABYYWHNRTAEUPQI3KFQEK46OYZEPEEQ",
+    "projectDescription": " A Fylo landing page with two column layout you can use as a home page for your business, application, or even your portfolio as it's nice, tidy, and crystal clear and you can add to it whatever you want.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Fylo%20Landing%20Page/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Fylo-Landing-Page-With-Two-Column-Layout",
-    "projectLive": "https://mohamed-waled.github.io/Fylo-Landing-Page-With-Two-Column-Layout/"
+    "projectLive": "https://mohamed-waled.github.io/Fylo-Landing-Page-With-Two-Column-Layout/",
+    "technologies": 1
   },
   {
     "id": 4,
     "projectName": "huddle landing page",
-    "projectDescription": "A huddle landing page with alternating feature blocks you can use as a home page for your business, application, or even your portfolio as it's nice, tidy, and crystal clear and you can add to it whatever you want. I've used HTML and CSS.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Huddle%20Landing%20Page/mockup.png?token=GHSAT0AAAAAABYYWHNQ4LYNZZRGYQUU2I6KYZEPEMQ",
+    "projectDescription": "A huddle landing page with alternating feature blocks you can use as a home page for your business, application, or even your portfolio as it's nice, tidy, and crystal clear and you can add to it whatever you want.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Huddle%20Landing%20Page/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Huddle-Landing-Page-With-Alternating-Feature-Blocks",
-    "projectLive": "https://mohamed-waled.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks/"
+    "projectLive": "https://mohamed-waled.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks/",
+    "technologies": 1
   },
   {
     "id": 5,
     "projectName": "clipboard landing page",
-    "projectDescription": "A clipboard landing page you can use as a home page for your business, application, or even your portfolio as it's nice, tidy, and crystal clear and you can add to it whatever you want. I've used HTML and CSS.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Clipboard%20Landing%20Page/mockup.png?token=GHSAT0AAAAAABYYWHNQCR6BXHJHICZATLIGYZEPDYQ",
+    "projectDescription": "A clipboard landing page you can use as a home page for your business, application, or even your portfolio as it's nice, tidy, and crystal clear and you can add to it whatever you want.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Clipboard%20Landing%20Page/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Clipboard-Landing-Page",
-    "projectLive": "https://mohamed-waled.github.io/Clipboard-Landing-Page/"
+    "projectLive": "https://mohamed-waled.github.io/Clipboard-Landing-Page/",
+    "technologies": 1
   },
   {
     "id": 6,
     "projectName": "tribute page",
-    "projectDescription": "A tribute page that you can use on your website to tell people who visit your business history and how you developed it and yourself. I've used HTML and CSS.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Tribute%20Page/mockup.png?token=GHSAT0AAAAAABYYWHNR6EMKGWO5MZ7QL7JAYZEPFRQ",
+    "projectDescription": "A tribute page that you can use on your website to tell people who visit your business history and how you developed it and yourself.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Tribute%20Page/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Tribute-Page",
-    "projectLive": "https://mohamed-waled.github.io/Tribute-Page/"
+    "projectLive": "https://mohamed-waled.github.io/Tribute-Page/",
+    "technologies": 1
   },
   {
     "id": 7,
     "projectName": "survey form",
-    "projectDescription": "A survey form section that you can use to collect data from your users. I've used HTML and CSS.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Survey%20Form/mockup.png?token=GHSAT0AAAAAABYYWHNR6673YU3B67TAAKYOYZEPE7A",
+    "projectDescription": "A survey form section that you can use to collect data from your users.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Survey%20Form/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Survey-Form",
-    "projectLive": "https://mohamed-waled.github.io/Survey-Form/"
+    "projectLive": "https://mohamed-waled.github.io/Survey-Form/",
+    "technologies": 1
   },
   {
     "id": 8,
     "projectName": "personal portfolio webpage",
-    "projectDescription": "A personal portfolio webpage that contains what anybody needs in its portfolio like a little about yourself and your projects and you can add another page for every project to tell people about it and last but not least the footer section that has all your social media accounts. I've used HTML and CSS.  P.s. It is just a project for the certificate and it is not my official portfolio**",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Personal%20Portfolio%20Webpage/mockup.png?token=GHSAT0AAAAAABYYWHNRIWS6SX46JOTFG3LEYZEPESA",
+    "projectDescription": "A personal portfolio webpage that contains what anybody needs in its portfolio like a little about yourself and your projects and you can add another page for every project to tell people about it and last but not least the footer section that has all your social media accounts.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Personal%20Portfolio%20Webpage/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Personal-Portfolio-Webpage",
-    "projectLive": "https://mohamed-waled.github.io/Personal-Portfolio-Webpage/"
+    "projectLive": "https://mohamed-waled.github.io/Personal-Portfolio-Webpage/",
+    "technologies": 1
   },
   {
     "id": 9,
     "projectName": "technical documentation page",
-    "projectDescription": "It's a technical documentation page but you can modify it to use it as terms of use and privacy policy for your website and add whatever data you want. I've used HTML and CSS.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Technical%20Documentation%20Page/mockup.png?token=GHSAT0AAAAAABYYWHNRNSZ76CNJAVNUUCEUYZEPFGQ",
+    "projectDescription": "It's a technical documentation page but you can modify it to use it as terms of use and privacy policy for your website and add whatever data you want.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Technical%20Documentation%20Page/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Technical-Documentation-Page",
-    "projectLive": "https://mohamed-waled.github.io/Technical-Documentation-Page/"
+    "projectLive": "https://mohamed-waled.github.io/Technical-Documentation-Page/",
+    "technologies": 1
   },
   {
     "id": 10,
     "projectName": "random quote machine",
-    "projectDescription": "This is a random quote machine that uses API to get the quotes and make them appear in front of you. I've used React.js.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Random%20Quote%20Machine/mockup.png?token=GHSAT0AAAAAABYYWHNRQXDPVE2ATCXCIYJEYZEPEYQ",
+    "projectDescription": "This is a random quote machine that uses API to get the quotes and make them appear in front of you.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Random%20Quote%20Machine/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Random-Quote-Machine",
-    "projectLive": "https://celebrated-lily-314c2f.netlify.app/"
+    "projectLive": "https://celebrated-lily-314c2f.netlify.app/",
+    "technologies": 4
   },
   {
     "id": 11,
     "projectName": "to-do app",
-    "projectDescription": "This is a To-Do App With Local Storage That Can Save Your Tasks in it Till You Delete Them includes an input field to write your task and a section to show you them and a button to delete the one you finish and when you click on any task it will be faded as it is done. I've used HTML, CSS, and JavaScript.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/To-Do%20App/mockup.png?token=GHSAT0AAAAAABYYWHNRWVSIWHDAJ7T7UXCWYZEPFLQ",
+    "projectDescription": "This is a To-Do App With Local Storage That Can Save Your Tasks in it Till You Delete Them includes an input field to write your task and a section to show you them and a button to delete the one you finish and when you click on any task it will be faded as it is done.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/To-Do%20App/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/To-Do-App",
-    "projectLive": "https://mohamed-waled.github.io/To-Do-App/"
+    "projectLive": "https://mohamed-waled.github.io/To-Do-App/",
+    "technologies": 2
   },
   {
     "id": 12,
     "projectName": "distance between two points calculator",
-    "projectDescription": "This is an app to calculate the distance between two points In a 2-dimensional coordinate system in (X, Y) format. I've used HTML, CSS, and JavaScript.",
-    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Distance%20Calculator%20Between%20Two%20Points/mockup.png?token=GHSAT0AAAAAABYYWHNQXK3ADTCBK7AI6X7YYZEPD5Q",
+    "projectDescription": "This is an app to calculate the distance between two points In a 2-dimensional coordinate system in (X, Y) format.",
+    "projectImage": "https://raw.githubusercontent.com/Mohamed-Waled/My-Portfolio-Assets/main/projects%20photos%20and%20mockups/Distance%20Calculator%20Between%20Two%20Points/mockup.png",
     "projectRepo": "https://github.com/Mohamed-Waled/Distance-Calculator-Between-Two-Points-V-2.0",
-    "projectLive": "https://mohamed-waled.github.io/Distance-Calculator-Between-Two-Points-V-2.0/"
+    "projectLive": "https://mohamed-waled.github.io/Distance-Calculator-Between-Two-Points-V-2.0/",
+    "technologies": 2
   }
 ]
